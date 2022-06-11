@@ -18,7 +18,7 @@ import SponsorsGroup from './SponsorsGroup.vue';
     <p class="actions">
       <!-- NOTE: hide the home video -->
       <!-- <vue-mastery-modal /> -->
-      <a class="get-started" href="/guide/introduction.html">
+      <a class="get-started" href="/vue3/guide/introduction.html">
         快速开始
         <svg
           class="icon"
@@ -32,7 +32,7 @@ import SponsorsGroup from './SponsorsGroup.vue';
           />
         </svg>
       </a>
-      <a class="setup" href="/guide/quick-start.html">安装</a>
+      <a class="setup" href="/vue3/guide/quick-start.html">安装</a>
     </p>
   </section>
 

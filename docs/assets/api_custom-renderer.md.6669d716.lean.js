@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.be9c8b40.js";const p='{"title":"自定义渲染器 API","description":"","frontmatter":{},"headers":[{"level":2,"title":"createRenderer()","slug":"create-renderer"}],"relativePath":"api/custom-renderer.md"}',o={},e=[l("",4)];var t=s(o,[["render",function(s,l,p,o,t,r){return a(),n("div",null,e)}]]);export{p as __pageData,t as default};

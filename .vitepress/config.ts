@@ -558,8 +558,11 @@ export default defineConfigWithTheme<ThemeConfig>({
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
   scrollOffset: 'header',
-
+  base:'/vue3/',
+  outDir:path.join(__dirname,'../docs'),
   head: [
+    ['meta',{name:'description',content:'懒人文档提供程序员需要的文档;Vue3;Vue;程序员文档;javascript'}],
+    ['meta',{name:'keywords',content:'懒人文档;Vue3;Vue;程序员文档;'}],
     ['meta', { name: 'twitter:site', content: '@vuejs' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [

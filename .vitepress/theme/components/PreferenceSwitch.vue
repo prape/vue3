@@ -90,7 +90,7 @@ function useToggleFn(
         <a
           class="switch-link"
           title="关于 API 风格偏好"
-          href="/guide/introduction.html#api-styles"
+          href="/vue3/guide/introduction.html#api-styles"
           @click="closeSideBar"
           >?</a
         >
@@ -107,7 +107,7 @@ function useToggleFn(
         <a
           class="switch-link"
           title="关于单文件组件"
-          href="/guide/scaling-up/sfc.html"
+          href="/vue3/guide/scaling-up/sfc.html"
           @click="closeSideBar"
           >?</a
         >
